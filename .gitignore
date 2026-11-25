@@ -14,11 +14,7 @@ env/
 # Local environment and secrets
 .env
 .env.*
-
-# Generated plots and temporary files
-*.png
-*.jpg
-!README.md
+!.env.example
 
 # Editor and operating system files
 .vscode/
